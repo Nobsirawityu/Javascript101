@@ -9,4 +9,6 @@ const newObject = names.reduce((allname, name) => {
     return allname;
 }, {});
 
+console.log('Hello world');
+
 console.log(newObject);
