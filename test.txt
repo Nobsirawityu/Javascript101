@@ -1,0 +1,31 @@
+{Core_Banking_Suggested_Segment__c: {…}, Name: {…}, RTL_OnSite_Service_User_Update__c: {…}, RTL_OnSite_Service_Update_Date__c: {…}, RTL_OnSite_Service__c: {…}, …}
+CYC_Campaign_PromoCond_api: {isAccessible: true}
+Consolidate_Status__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Consolidate Status', value: '', …}
+Core_Banking_Suggested_Segment__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Segment', value: 'Affluent', …}
+Fna_Product_Holding__c: {isAccessible: true, inlineHelpText: '', type: 'TEXTAREA', label: 'Fna Product Holding', value: '', …}
+Fna_Product_Interested__c: {isAccessible: true, inlineHelpText: '', type: 'TEXTAREA', label: 'Fna Product Interested', value: '', …}
+KYC_CCI1_Completed__c: {isAccessible: true, inlineHelpText: '', type: 'PICKLIST', label: 'KYC CCI1 Completed', value: '', …}
+KYC__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'KYC', value: '', …}
+Name: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Customer Name/Company (TH)', value: 'Retail Full Name 1000', …}
+RTL_4THANA_Aggregate_Bond_AMT__c: {isAccessible: true, inlineHelpText: '', type: 'DOUBLE', label: 'TMB Aggregate Bond Fund Amount', value: 0, …}
+RTL_4THANA_Bond_AMT__c: {isAccessible: true, inlineHelpText: '', type: 'DOUBLE', label: 'TMB Bond Fund Amount', value: 0, …}
+RTL_4THANA_Fund_AMT__c: {isAccessible: true, inlineHelpText: '', type: 'DOUBLE', label: 'TMB Thanaplus Fund Amount', value: 0, …}
+RTL_4THANA_Info__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: '4 Thana Information', value: '- TMB Thanaplus Fund Amount 0.00 บาท<br/>- TMB Agg…rt Bond Fund Amount 0.00 บาท<br/>- Total 0.00 บาท', …}
+RTL_4THANA_Short_Bond_AMT__c: {isAccessible: true, inlineHelpText: '', type: 'DOUBLE', label: 'TMB Ultra Short Bond Fund Amount', value: 0, …}
+RTL_4THANA_Total_AMT__c: {isAccessible: true, inlineHelpText: '', type: 'DOUBLE', label: 'Total', value: 0, …}
+RTL_C2G_STMT_status__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'C2G STMT status', value: '', …}
+RTL_CC_STMT_status__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'CC STMT status', value: '', …}
+RTL_Credit_Card_History__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Credit Card History', value: 'ลูกค้าที่ไม่เคยมีบัตรเครดิต TMB ก่อน 1 กันยายน 256…br> - รายได้ 100,000 ขึ้นไป : วงเงินสูงสุด 5 เท่า', …}
+RTL_Entitled_Privilege2__c: {isAccessible: true, inlineHelpText: '', type: 'TEXTAREA', label: 'Entitled Privileges', value: '', …}
+RTL_Lifetime_Code__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Lifetime Reference code', value: '', …}
+RTL_Lifetime_link__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Lifetime link', value: '<a href="http://lfp.8interactive.co.th/" target="_blank">ดูข้อมูล Lifetime ของลูกค้า</a>', …}
+RTL_OnSite_Service_Update_Date__c: {isAccessible: true, inlineHelpText: '', type: 'DATE', label: 'On Site Service Update Date', value: '', …}
+RTL_OnSite_Service_User_Update__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'On Site Service User Update', value: '', …}
+RTL_OnSite_Service__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'On Site Service', value: '', …}
+RTL_Personal_Loan_History__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'Personal Loan History', value: 'ลูกค้าไม่เคยมีวงเงินสินเชื่อบุคคลกับ TMB ก่อน 1 กั…้ &gt;= 30,000 บาท : วงเงินสูงสุด 5 เท่าของรายได้', …}
+RTL_Privilege2__c: {isAccessible: true, inlineHelpText: '', type: 'TEXTAREA', label: 'Current Privileges', value: '- ดอกเบี้ยพิเศษ NO FIXED                                                                            ', …}
+RTL_RDC_STMT_status__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'RDC STMT status', value: '', …}
+TMB_Customer_ID_PE__c: {isAccessible: true, inlineHelpText: '', type: 'STRING', label: 'TMB Customer ID', value: '001100000000000000000000051187', …}
+e_statement: {isAccessible: true}
+regisStateTable: {isAccessible: true}
+[[Prototype]]: Object
