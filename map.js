@@ -18,7 +18,9 @@ let arr = [];
 
 people.forEach(function(p) {
   arr.push(p.name);
-})
+});
+
+const hahaha = '555555';
 
 const test = !people[0].Ronaldo;
 console.log(test);
